@@ -1,2 +1,2 @@
-# educational-web-project
-An educational web project to learn HTML, CSS, and JavaScript fundamentals
+# GLOBAL EDUCATION
+An educational web project to learn THE THINGS U NEEDED
