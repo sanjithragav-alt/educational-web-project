@@ -22,7 +22,7 @@ Algebra
 Equations
 Statistics
 Problem-solving
-Later: advanced mathematics and calculusHow to achieve it
+Later: advanced mathematics and calculus
 
 Don't just memorize formulas.
 
