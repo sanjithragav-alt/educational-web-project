@@ -1,4 +1,5 @@
-# GLOBAL EDUCATION
+# mathematics
+
 An educational web project to learn the things you needed
 
 🏫 1. SCHOOL & ACADEMIC KNOWLEDGE
